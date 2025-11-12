@@ -1,0 +1,90 @@
+CRITICAL - 2025-10-15 18:11:43 --> ErrorException: Undefined property: App\Controllers\Pages::$load
+[Method: GET, Route: /]
+in APPPATH\Controllers\Pages.php on line 17.
+ 1 APPPATH\Controllers\Pages.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$load', 'C:\\laragon\\www\\Codeigniter4\\app\\Controllers\\Pages.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-15 18:11:50 --> ErrorException: Undefined property: App\Controllers\Pages::$load
+[Method: GET, Route: /]
+in APPPATH\Controllers\Pages.php on line 17.
+ 1 APPPATH\Controllers\Pages.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$load', 'C:\\laragon\\www\\Codeigniter4\\app\\Controllers\\Pages.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-15 18:12:01 --> ErrorException: Undefined property: App\Controllers\Pages::$load
+[Method: GET, Route: /]
+in APPPATH\Controllers\Pages.php on line 17.
+ 1 APPPATH\Controllers\Pages.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$load', 'C:\\laragon\\www\\Codeigniter4\\app\\Controllers\\Pages.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-15 18:13:04 --> ErrorException: Undefined property: App\Controllers\Pages::$load
+[Method: GET, Route: /]
+in APPPATH\Controllers\Pages.php on line 17.
+ 1 APPPATH\Controllers\Pages.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$load', 'C:\\laragon\\www\\Codeigniter4\\app\\Controllers\\Pages.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-15 18:13:06 --> ErrorException: Undefined property: App\Controllers\Pages::$load
+[Method: GET, Route: /]
+in APPPATH\Controllers\Pages.php on line 17.
+ 1 APPPATH\Controllers\Pages.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$load', 'C:\\laragon\\www\\Codeigniter4\\app\\Controllers\\Pages.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-15 18:13:06 --> ErrorException: Undefined property: App\Controllers\Pages::$load
+[Method: GET, Route: /]
+in APPPATH\Controllers\Pages.php on line 17.
+ 1 APPPATH\Controllers\Pages.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$load', 'C:\\laragon\\www\\Codeigniter4\\app\\Controllers\\Pages.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-15 18:13:11 --> ErrorException: Undefined property: App\Controllers\Pages::$load
+[Method: GET, Route: /]
+in APPPATH\Controllers\Pages.php on line 17.
+ 1 APPPATH\Controllers\Pages.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$load', 'C:\\laragon\\www\\Codeigniter4\\app\\Controllers\\Pages.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-15 18:14:50 --> ErrorException: Undefined property: App\Controllers\Pages::$load
+[Method: GET, Route: /]
+in APPPATH\Controllers\Pages.php on line 17.
+ 1 APPPATH\Controllers\Pages.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$load', 'C:\\laragon\\www\\Codeigniter4\\app\\Controllers\\Pages.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-15 18:14:53 --> ErrorException: Undefined property: App\Controllers\Pages::$load
+[Method: GET, Route: /]
+in APPPATH\Controllers\Pages.php on line 17.
+ 1 APPPATH\Controllers\Pages.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$load', 'C:\\laragon\\www\\Codeigniter4\\app\\Controllers\\Pages.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Pages->view()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
